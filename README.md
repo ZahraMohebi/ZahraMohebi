@@ -2,7 +2,7 @@ Welcome to My GitHub Profile! 🚀
 # world 👋
 
 <p align="center" >
-  <img src="https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65">
+  <img src="https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65" style="max-width:50%">
 </p>
 
 ## About Me
