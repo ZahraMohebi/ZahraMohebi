@@ -2,7 +2,7 @@ Welcome to My GitHub Profile! 🚀
 # world 👋
 
 <p align="center" >
-  <img src="https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65" style="max-width:50%">
+  <div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV">via GIPHY</a></p>
 </p>
 
 ## About Me
