@@ -2,7 +2,7 @@ Welcome to My GitHub Profile! 🚀
 # world 👋
 
 <p align="center">
-  <img src="https://image.lexica.art/full_jpg/b5d8d588-5523-4639-b3d9-fe43abfc8338" alt="A developer girl">
+  <img src="https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65">
 </p>
 
 ## About Me
