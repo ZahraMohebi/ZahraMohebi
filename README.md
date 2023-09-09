@@ -2,7 +2,8 @@ Welcome to My GitHub Profile! 🚀
 # world 👋
 
 <p align="center" >
-  <div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV">via GIPHY</a></p>
+  <img 
+src="https://camo.githubusercontent.com/55be4ea62463f9fdf0e71093b55213d2e77552c60fda6d43aac38177f31b05ae/68747470733a2f2f696d6167652e6c65786963612e6172742f66756c6c5f6a70672f30626633333130612d653261612d346137652d383061382d346230336631613438653635" alt='developer girl' style="width:23rem"/>
 </p>
 
 ## About Me
