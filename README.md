@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/55be4ea62463f9fdf0e71093b55213d2e77552c6
 
 ## About Me
 
-###Hey there! I'm Zahra Mohebi, a frontend developer passionate about creating captivating web experiences. I specialize in JavaSceipt, TypeScript, React, constantly honing my skills to deliver top-notch code.
+### Hey there! I'm Zahra Mohebi, a frontend developer passionate about creating captivating web experiences. I specialize in JavaSceipt, TypeScript, React, constantly honing my skills to deliver top-notch code.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,11 +22,11 @@ src="https://camo.githubusercontent.com/55be4ea62463f9fdf0e71093b55213d2e77552c6
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## Contact Me
-###Got questions or collaboration opportunities? Say hello! 🌟
+### Got questions or collaboration opportunities? Say hello! 🌟
 
-✉️ Email: zahra.mohebi996@gmail.com
+### ✉️ Email: zahra.mohebi996@gmail.com
 
-💼 LinkedIn:  linkedin.com/in/zahramohebi
+### 💼 LinkedIn:  linkedin.com/in/zahramohebi
 
 Let's create something incredible together! 🎉
 
