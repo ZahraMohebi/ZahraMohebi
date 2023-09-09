@@ -1,16 +1,13 @@
 Welcome to My GitHub Profile! 🚀
 # world 👋
 
-<p align="center" width='25rem'>
-  <img src="https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65">
+<p align="center" >
+  <img src="https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65" width='25rem'>
 </p>
 
 ## About Me
 
-###Hey there! I'm Zahra Mohebi, a frontend developer passionate about creating captivating web experiences. I specialize in ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-, ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-, and ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-, constantly honing my skills to deliver top-notch code.
+###Hey there! I'm Zahra Mohebi, a frontend developer passionate about creating captivating web experiences. I specialize in JavaSceipt, TypeScript, React, constantly honing my skills to deliver top-notch code.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
