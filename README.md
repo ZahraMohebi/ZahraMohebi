@@ -1,5 +1,4 @@
-Welcome to My GitHub Profile! 🚀
-# world 👋
+# world Welcome to My GitHub Profile! 👋
 
 <p align="center" >
   <img 
